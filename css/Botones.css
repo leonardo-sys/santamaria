@@ -1,0 +1,44 @@
+body {
+    background: #f2f2f2;
+    font-family: Arial;
+}
+div {
+    margin: 20px 0px;
+}
+.btn {
+    background: #32021f;
+    color: #ffffff;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 15px 20px;
+    display: inline-block;
+    margin: 0px 10px;
+}
+.btn:hover{
+    opacity: .8;
+}
+
+.Sml {
+    font-size: 14px;
+    padding: 10px 15px;
+}
+.Md {
+    font-size: 16px;
+    padding: 15px 20px;
+}
+.L {
+    font-size: 18px;
+    padding: 20px 25px;
+}
+.XL {
+    font-size: 20px;
+    padding: 25px 30px;
+}
+
+.Blue { background: blue; }
+.Green { background: green; }
+.Orange { background: orange; }
+
+.BRadius {
+    border-radius: 100px;
+} 
